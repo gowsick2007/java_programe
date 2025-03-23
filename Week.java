@@ -2,7 +2,7 @@ import java.util.*;
 class Week{
     public static void main(String[] args) {
         Scanner a = new Scanner(System.in);
-        System.out.print("enter the day of number");
+        System.out.print("enter the day of number :");
         int day = a.nextInt();
         switch (day) {
             case 1:
